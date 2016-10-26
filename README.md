@@ -83,6 +83,8 @@ http://www.codewars.com/
 
 * [Big Screens Exhibit](http://gizmodo.com/5110633/120-feet-of-video-art-final-exams-at-nyus-big-screens-class)
 
+##Creative Brief Resources
+* [Presentation](https://docs.google.com/presentation/d/12PR6qhQ45YRLOW7f2KG-M_NDfWezQzp2GBdCMLvJbxg/pub?start=false&loop=false&delayms=3000)
 
-
+* [Example of Finalized Cretive Brief](https://dl.dropboxusercontent.com/u/57158100/The%20Giving%20Tree%20-%20Burning%20Man%202007%20%28sans%20budget%29.pdf)
 
