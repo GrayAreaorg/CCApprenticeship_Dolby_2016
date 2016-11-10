@@ -34,8 +34,11 @@
 Bubble[] bubbles;
 JSONObject json;
 
-void setup() {
+void settings() {
   size(480, 270);
+}
+  
+void setup() {
   loadData();
 }
 

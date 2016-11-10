@@ -1,36 +1,82 @@
-{
-  "bubbles":[
-    {
-      "position":{
-        "x":160,
-        "y":103
-      },
-      "diameter":43.19838,
-      "label":"Happy"
+{"bubbles": [
+  {
+    "diameter": 76.51778411865234,
+    "position": {
+      "x": 376,
+      "y": 78
     },
-    {
-      "position":{
-        "x":372,
-        "y":137
-      },
-      "diameter":52.42526,
-      "label":"Sad"
+    "label": "New label"
+  },
+  {
+    "diameter": 42.257354736328125,
+    "position": {
+      "x": 468,
+      "y": 164
     },
-    {
-      "position":{
-        "x":273,
-        "y":235
-      },
-      "diameter":61.14072,
-      "label":"Joyous"
+    "label": "New label"
+  },
+  {
+    "diameter": 54.68511199951172,
+    "position": {
+      "x": 323,
+      "y": 215
     },
-    {
-      "position":{
-        "x":121,
-        "y":179
-      },
-      "diameter":44.758068,
-      "label":"Melancholy"
-    }
-  ]
-}
+    "label": "New label"
+  },
+  {
+    "diameter": 44.33525466918945,
+    "position": {
+      "x": 263,
+      "y": 74
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 54.69258117675781,
+    "position": {
+      "x": 124,
+      "y": 54
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 43.41858673095703,
+    "position": {
+      "x": 30,
+      "y": 63
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 71.43509674072266,
+    "position": {
+      "x": 91,
+      "y": 122
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 52.13746643066406,
+    "position": {
+      "x": 264,
+      "y": 161
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 63.0992546081543,
+    "position": {
+      "x": 260,
+      "y": 19
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 46.950660705566406,
+    "position": {
+      "x": 92,
+      "y": 11
+    },
+    "label": "New label"
+  }
+]}
