@@ -33,7 +33,7 @@
 // An Array of Bubble objects
 Bubble[] bubbles;
 JSONObject json;
-
+//size only works in settings
 void settings() {
   size(480, 270);
 }
